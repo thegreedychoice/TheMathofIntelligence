@@ -20,8 +20,10 @@ https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png
 <h3>Dependencies</h3>
 
 numpy
+matplotlib
+csv
 Python 2 and 3 both work for this. Use pip to install any dependencies.
 
 <h3>Usage</h3>
 
-Just run python3 demo.py to see the results:
+Run gradient_descent.py to run this code. 
