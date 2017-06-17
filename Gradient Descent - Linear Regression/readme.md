@@ -19,9 +19,9 @@ https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png
 
 <h3>Dependencies</h3>
 
-numpy
-matplotlib
-csv
+numpy</br>
+matplotlib</br>
+csv</br>
 Python 2 and 3 both work for this. Use pip to install any dependencies.
 
 <h3>Usage</h3>
